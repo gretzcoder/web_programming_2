@@ -32,7 +32,7 @@
                         </form>
                         <hr>
                         <div class="text-center">
-                            <a class="small" href="register.html">Create an Account!</a>
+                            <a class="small" href="<?= base_url("autentifikasi/registrasi") ?>">Create an Account!</a>
                         </div>
                     </div>
                 </div>
